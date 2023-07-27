@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="1010" height="400">
+
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
